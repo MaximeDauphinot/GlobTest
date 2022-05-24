@@ -45,7 +45,7 @@ Précisez en combien de temps vous avez implémenté cette fonction.
 
 ### réponse
 
-environ 5 min, la réponse étant dans les fork il m'a juste fallu lire quelques exemple pour comprendre et retranscrir la reponse qui me paraissait le plus adapté :)
+environ 5 min, la réponse étant dans les fork il m'a juste fallu lire quelques exemple pour comprendre et retranscrire la reponse qui me paraissait le plus adapté :)
 
 ## Merci
 
