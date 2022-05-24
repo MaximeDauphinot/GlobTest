@@ -20,7 +20,7 @@ Expliquez, en quelques lignes, ce que fait cette fonction.
 
 ### réponse
 
-La principe de la fonction est une sorte d'intersection entre des intervalles par exemple si l'intervale est inclu dans un autre intervale on le supprime pour éviter
+La principe de la fonction est une sorte d'intersection entre des intervalles, par exemple si l'intervale est inclu dans un autre intervale on le supprime pour éviter
 les redondances.
 La fonction prend en paramètre un tableau non trié, donc la première étape consiste à trier le tableau, ensuite, on vérifie deux par deux, si on trouver
 une intersection entre les deux élements alors on fusionne les deux sinon on passe au suivant.
@@ -45,7 +45,7 @@ Précisez en combien de temps vous avez implémenté cette fonction.
 
 ### réponse
 
-environ 5 min, la réponse étant dans les fork il m'a juste fallu lire quelques exemple pour comprendre et retranscrire la reponse qui me paraissait le plus adapté :)
+environ 5 min, la réponse étant dans les fork il m'a juste fallu lire quelques exemples pour comprendre et retranscrire la reponse qui me paraissait le plus adapté :)
 
 ## Merci
 
